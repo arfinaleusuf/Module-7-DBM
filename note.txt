@@ -9,5 +9,7 @@ joining table:
 
 Query Result:
 
-    name | dept_id
-    
+    name | Dept_name
+    Rahim|  IT
+    karim|  sales
+    arfin|  IT
