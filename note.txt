@@ -1,2 +1,13 @@
 joining table:
-    dui ta table ek kora.
+    
+    given table:
+            Employees                        Department
+        name   | salary | dept_id          dept_id  |  Dept_name
+        Rahim  | 50000  | 60                20      | marketing
+        Karim  | 20000  | 90                60      | IT
+        arfin  | 60000  | 60                90      | sales
+
+Query Result:
+
+    name | dept_id
+    
